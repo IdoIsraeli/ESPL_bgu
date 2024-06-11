@@ -1,0 +1,12 @@
+total 120
+-rw-r--r-- 1 idoisr@wincs.cs.bgu.ac.il 142201120     6 Apr 29 22:44 in.txt
+-rw-r--r-- 1 idoisr@wincs.cs.bgu.ac.il 142201120  3707 Apr 27 00:31 LineParser.c
+-rw-r--r-- 1 idoisr@wincs.cs.bgu.ac.il 142201120  1193 Apr 27 00:31 LineParser.h
+-rw-r--r-- 1 idoisr@wincs.cs.bgu.ac.il 142201120 10200 Apr 29 22:19 LineParser.o
+-rw-r--r-- 1 idoisr@wincs.cs.bgu.ac.il 142201120   359 Apr 29 19:30 Makefile
+-rw-r--r-- 1 idoisr@wincs.cs.bgu.ac.il 142201120     0 Apr 29 22:44 out.txt
+-rwxr-xr-x 1 idoisr@wincs.cs.bgu.ac.il 142201120 28784 Apr 29 22:19 task2
+-rw-r--r-- 1 idoisr@wincs.cs.bgu.ac.il 142201120  4557 Apr 29 22:18 task2.c
+-rw-r--r-- 1 idoisr@wincs.cs.bgu.ac.il 142201120 10548 Apr 29 22:19 task2.o
+-rwxr-xr-x 1 idoisr@wincs.cs.bgu.ac.il 142201120 28720 Apr 29 19:27 task2test
+-rw-r--r-- 1 idoisr@wincs.cs.bgu.ac.il 142201120  3371 Apr 29 19:27 task2test.c

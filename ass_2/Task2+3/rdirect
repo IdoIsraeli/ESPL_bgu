@@ -1,0 +1,9 @@
+total 68
+-rw-r--r-- 1 idoisr@wincs.cs.bgu.ac.il 142201120  3707 Apr 17 01:01 LineParser.c
+-rw-r--r-- 1 idoisr@wincs.cs.bgu.ac.il 142201120  1193 Apr 17 01:01 LineParser.h
+-rw-r--r-- 1 idoisr@wincs.cs.bgu.ac.il 142201120 10204 Apr 17 09:21 LineParser.o
+-rw-r--r-- 1 idoisr@wincs.cs.bgu.ac.il 142201120   379 Apr 17 01:01 Makefile
+-rwxr-xr-x 1 idoisr@wincs.cs.bgu.ac.il 142201120 23788 Apr 17 09:21 myshell
+-rw-r--r-- 1 idoisr@wincs.cs.bgu.ac.il 142201120  2129 Apr 17 01:08 myshell.c
+-rw-r--r-- 1 idoisr@wincs.cs.bgu.ac.il 142201120  7880 Apr 17 09:21 myshell.o
+-rw-r--r-- 1 idoisr@wincs.cs.bgu.ac.il 142201120    84 Apr 17 09:32 rdirect

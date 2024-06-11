@@ -1,0 +1,22 @@
+all: myshell
+
+# Tool invocations
+# Executable "hello" depends on the files numbers.o and main.o and add.s.
+myshell: myshell.o LineParser.o
+	gcc -g -m32 -Wall -o myshell myshell.o LineParser.o
+
+myshell.o: myshell.c
+	gcc -g -m32 -Wall -c -o myshell.o myshell.c
+
+LineParser.o: LineParser.c
+	gcc -g -m32 -Wall -c -o LineParser.o LineParser.c
+
+.PHONYmyshell: cleanmyshell
+
+cleanmyshell:
+	rm -f *.o myshell
+
+.PHONYmypipe: cleanmypipe
+
+cleanmypipe:
+	rm -f *.o mypipe

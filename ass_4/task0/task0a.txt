@@ -1,0 +1,2 @@
+1. Entry point address:   0x80483b0
+2. There are 29 section headers, starting at offset 0x113c
